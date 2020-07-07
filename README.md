@@ -31,3 +31,6 @@ the test returns a pass.
 
 This here tests whether the calculator method add is working correctly to take in the values 2, 2 and expects an output of 4.
 
+**Exercise** Set on 07/07/2020
+Create a test file for [**FILE**]() <br>
+Test file can be found [**TEST_FILE**]()
